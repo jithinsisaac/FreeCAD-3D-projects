@@ -1,6 +1,6 @@
-# FreeCAD Projects
+# FreeCAD 3D Projects
 
-Projects implemented while learning & experimenting with FreeCAD
+3D modeling Projects implemented while learning & experimenting with FreeCAD
 
 FreeCAD Download: https://www.freecadweb.org/downloads.php
 
